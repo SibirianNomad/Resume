@@ -16,5 +16,5 @@ PHP, Sql,  JavaScript, iQuery, 1C-Bitrix, Git
  
  Ссылка на учебные проекты:
  
- https://sibiriannomad.github.io/technotreid.github.io/
+ https://sibiriannomad.github.io/technotreid.github.io/<br>
  https://sibiriannomad.github.io/hutor.github.io/
