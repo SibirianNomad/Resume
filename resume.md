@@ -10,7 +10,7 @@ PHP, Sql,  JavaScript, iQuery, 1C-Bitrix, Git
 
 # <b>Experience</b>
 
-Стажировка в компании REDDER 09.2019-01.2020:
+Стажировка в компании REDDER 09.2019-01.2020:<br>
  -верстка landing page
  -создание интернет-магазина на основе 1C-Bitrix
  
