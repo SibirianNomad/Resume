@@ -17,4 +17,3 @@ HTML, CSS, JavaScript, jQuery, ReactJS, PHP, Sql, Laravel, Git
  
  https://sibiriannomad.github.io/technotreid.github.io/<br>
  https://sibiriannomad.github.io/hutor.github.io/
-some chnanded
