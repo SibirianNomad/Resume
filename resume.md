@@ -2,18 +2,17 @@
 
 # <b>Profile</b>
 
-Я начинающий Веб-разработчик Frontend и Backend. Ищу свою первую работу. Изучаю программирование самостоятельно с мая 2019 г.
+Я начинающий Веб-разработчик Frontend и Backend. Изучаю программирование самостоятельно с мая 2019 г. На данный момент работаю в Томске в компании Evaxsoft
 
 # <b>Skills</b>
 
-PHP, Sql,  JavaScript, iQuery, 1C-Bitrix, Git
+HTML, CSS, JavaScript, jQuery, ReactJS, PHP, Sql, Laravel, Git
 
 # <b>Experience</b>
 
-Стажировка в компании REDDER 09.2019-01.2020:<br>
+1. Стажировка в компании REDDER 09.2019-01.2020:<br>
  -верстка landing page
- -создание интернет-магазина на основе 1C-Bitrix
- 
+2.  Веб-разработчик в Evaxsoft по н.в.
  Ссылка на учебные проекты:
  
  https://sibiriannomad.github.io/technotreid.github.io/<br>
