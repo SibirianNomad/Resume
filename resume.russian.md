@@ -13,7 +13,7 @@ HTML, CSS, JavaScript, jQuery, ReactJS, PHP, Sql, Laravel, Git
 1. Стажировка в компании REDDER 09.2019-01.2020:<br>
  -верстка landing page
  <br>-изучение 1С-Битрикс
-2.  Веб-разработчик в Evaxsoft по н.в.
+2.  Веб-разработчик в Evaxsoft с 04.2020 по н.в.
 # <b>Ссылка на учебные проекты:</b>
  
  https://sibiriannomad.github.io/technotreid.github.io/<br>
